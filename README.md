@@ -1,6 +1,10 @@
-# WebLab — Tu primera web, paso a paso
+# WebLab — Experimenta, poco a poco
 
 **v0.1 · 1.º DAM · Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**
+
+El objetivo de esta práctica es adatparse al trabajo de flujo de GitHub. Además utilizaremos HTML.
+
+URL enlace original: https://github.com/franmatias/weblab
 
 WebLab es un minicurso multipágina sobre cómo crear una web con **HTML, CSS y JavaScript vainilla**. El propio sitio sirve como ejemplo que el alumnado puede leer, modificar y versionar con Git. Esta primera versión es deliberadamente pequeña: seis páginas, una hoja de estilos compartida, un script común y recursos locales.
 
